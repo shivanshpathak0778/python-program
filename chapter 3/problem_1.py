@@ -1,0 +1,2 @@
+name = input ("enter your name ") # write a program that asks the user for their name and then prints a greeting using their name. For example, if the user enters "Alice", the program should print "good afternoon Alice".
+print (f"good afternoon {name}")
