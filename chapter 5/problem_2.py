@@ -1,0 +1,27 @@
+s = set()
+n = (input("Enter the number of elements in the set: "))
+s.add(int(n))
+
+n = (input("Enter the number of elements in the set: "))
+s.add(int(n))
+
+n = (input("Enter the number of elements in the set: "))
+s.add(int(n))
+
+n = (input("Enter the number of elements in the set: "))
+s.add(int(n))
+
+n = (input("Enter the number of elements in the set: "))
+s.add(int(n))
+
+
+n = (input("Enter the number of elements in the set: "))
+s.add(int(n))
+
+n = (input("Enter the number of elements in the set: "))
+s.add(int(n))
+
+n = (input("Enter the number of elements in the set: "))
+s.add(int(n))
+
+print(s)
